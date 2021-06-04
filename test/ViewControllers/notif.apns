@@ -1,0 +1,10 @@
+{
+    "aps" : {
+        "alert" : {
+            "title" : "sarunw.com",
+            "body" : "A asdfsadfsadf"
+        },
+        "badge" : 5
+    },
+    "Simulator Target Bundle": "bundleId"
+}

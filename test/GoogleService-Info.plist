@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CLIENT_ID</key>
+    <string>451399756302-ejgffu6ruqr14e5uvimlllvtldo19jgm.apps.googleusercontent.com</string>
+    <key>REVERSED_CLIENT_ID</key>
+    <string>com.googleusercontent.apps.451399756302-ejgffu6ruqr14e5uvimlllvtldo19jgm</string>
+    <key>ANDROID_CLIENT_ID</key>
+    <string>451399756302-f2ea1f8m9s6m6f5j39h6v13laco7ulpo.apps.googleusercontent.com</string>
+    <key>API_KEY</key>
+    <string>AIzaSyA8940XD09KobdmnBsuuh8A0K-QCPHFw6k</string>
+    <key>GCM_SENDER_ID</key>
+    <string>451399756302</string>
+    <key>PLIST_VERSION</key>
+    <string>1</string>
+    <key>BUNDLE_ID</key>
+    <string>com.yoel.spotme</string>
+    <key>PROJECT_ID</key>
+    <string>spotme-39709</string>
+    <key>STORAGE_BUCKET</key>
+    <string>spotme-39709.appspot.com</string>
+    <key>IS_ADS_ENABLED</key>
+    <false></false>
+    <key>IS_ANALYTICS_ENABLED</key>
+    <false></false>
+    <key>IS_APPINVITE_ENABLED</key>
+    <true></true>
+    <key>IS_GCM_ENABLED</key>
+    <true></true>
+    <key>IS_SIGNIN_ENABLED</key>
+    <true></true>
+    <key>GOOGLE_APP_ID</key>
+    <string>1:451399756302:ios:631ca1dc1fc4d67e336a5f</string>
+    <key>DATABASE_URL</key>
+    <string>https://spotme-39709.firebaseio.com</string>
+</dict>
+</plist>

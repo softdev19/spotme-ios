@@ -1,0 +1,227 @@
+PODS:
+  - Alamofire (5.4.0)
+  - Cosmos (11.0.3)
+  - CountryPickerView (3.2.0)
+  - DatePickerDialog (4.0)
+  - Firebase/Analytics (6.31.1):
+    - Firebase/Core
+  - Firebase/Auth (6.31.1):
+    - Firebase/CoreOnly
+    - FirebaseAuth (~> 6.9.0)
+  - Firebase/Core (6.31.1):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (= 6.8.0)
+  - Firebase/CoreOnly (6.31.1):
+    - FirebaseCore (= 6.10.1)
+  - Firebase/Database (6.31.1):
+    - Firebase/CoreOnly
+    - FirebaseDatabase (~> 6.5.0)
+  - Firebase/DynamicLinks (6.31.1):
+    - Firebase/CoreOnly
+    - FirebaseDynamicLinks (~> 4.3.0)
+  - Firebase/Messaging (6.31.1):
+    - Firebase/CoreOnly
+    - FirebaseMessaging (~> 4.6.2)
+  - Firebase/Storage (6.31.1):
+    - Firebase/CoreOnly
+    - FirebaseStorage (~> 3.9.0)
+  - FirebaseAnalytics (6.8.0):
+    - FirebaseCore (~> 6.10)
+    - FirebaseInstallations (~> 1.6)
+    - GoogleAppMeasurement (= 6.8.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.7)
+    - GoogleUtilities/MethodSwizzler (~> 6.7)
+    - GoogleUtilities/Network (~> 6.7)
+    - "GoogleUtilities/NSData+zlib (~> 6.7)"
+    - nanopb (~> 1.30906.0)
+  - FirebaseAuth (6.9.0):
+    - FirebaseCore (~> 6.10)
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.7)
+    - GoogleUtilities/Environment (~> 6.7)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - FirebaseCore (6.10.1):
+    - FirebaseCoreDiagnostics (~> 1.6)
+    - GoogleUtilities/Environment (~> 6.7)
+    - GoogleUtilities/Logger (~> 6.7)
+  - FirebaseCoreDiagnostics (1.6.0):
+    - GoogleDataTransport (~> 7.2)
+    - GoogleUtilities/Environment (~> 6.7)
+    - GoogleUtilities/Logger (~> 6.7)
+    - nanopb (~> 1.30906.0)
+  - FirebaseDatabase (6.5.0):
+    - FirebaseCore (~> 6.10)
+    - leveldb-library (~> 1.22)
+  - FirebaseDynamicLinks (4.3.1):
+    - FirebaseCore (~> 6.10)
+  - FirebaseInstallations (1.7.0):
+    - FirebaseCore (~> 6.10)
+    - GoogleUtilities/Environment (~> 6.7)
+    - GoogleUtilities/UserDefaults (~> 6.7)
+    - PromisesObjC (~> 1.2)
+  - FirebaseInstanceID (4.6.0):
+    - FirebaseCore (~> 6.10)
+    - FirebaseInstallations (~> 1.6)
+    - GoogleUtilities/Environment (~> 6.7)
+    - GoogleUtilities/UserDefaults (~> 6.7)
+  - FirebaseMessaging (4.6.2):
+    - FirebaseCore (~> 6.10)
+    - FirebaseInstanceID (~> 4.6)
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.7)
+    - GoogleUtilities/Environment (~> 6.7)
+    - GoogleUtilities/Reachability (~> 6.7)
+    - GoogleUtilities/UserDefaults (~> 6.7)
+    - Protobuf (>= 3.9.2, ~> 3.9)
+  - FirebaseStorage (3.9.1):
+    - FirebaseCore (~> 6.10)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleAppMeasurement (6.8.0):
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.7)
+    - GoogleUtilities/MethodSwizzler (~> 6.7)
+    - GoogleUtilities/Network (~> 6.7)
+    - "GoogleUtilities/NSData+zlib (~> 6.7)"
+    - nanopb (~> 1.30906.0)
+  - GoogleDataTransport (7.3.0):
+    - nanopb (~> 1.30906.0)
+  - GoogleUtilities/AppDelegateSwizzler (6.7.2):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (6.7.2):
+    - PromisesObjC (~> 1.2)
+  - GoogleUtilities/Logger (6.7.2):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (6.7.2):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (6.7.2):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (6.7.2)"
+  - GoogleUtilities/Reachability (6.7.2):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (6.7.2):
+    - GoogleUtilities/Logger
+  - GTMSessionFetcher/Core (1.4.0)
+  - ImagePicker (3.2.0)
+  - InputBarAccessoryView (5.2.2):
+    - InputBarAccessoryView/Core (= 5.2.2)
+  - InputBarAccessoryView/Core (5.2.2)
+  - iOSDropDown (0.3.4)
+  - leveldb-library (1.22)
+  - MessageKit (3.4.2):
+    - InputBarAccessoryView (~> 5.2.1)
+  - nanopb (1.30906.0):
+    - nanopb/decode (= 1.30906.0)
+    - nanopb/encode (= 1.30906.0)
+  - nanopb/decode (1.30906.0)
+  - nanopb/encode (1.30906.0)
+  - OTPFieldView (1.0.1)
+  - PromisesObjC (1.2.10)
+  - Protobuf (3.13.0)
+  - SDWebImage (5.9.0):
+    - SDWebImage/Core (= 5.9.0)
+  - SDWebImage/Core (5.9.0)
+  - SignaturePad (1.0.3)
+  - Stripe (21.1.0)
+  - SwiftyJSON (5.0.0)
+  - Toast-Swift (5.0.1)
+  - UICheckbox.Swift (1.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - Cosmos (~> 11.0)
+  - CountryPickerView
+  - DatePickerDialog
+  - Firebase/Analytics
+  - Firebase/Auth
+  - Firebase/Database
+  - Firebase/DynamicLinks
+  - Firebase/Messaging
+  - Firebase/Storage
+  - ImagePicker
+  - iOSDropDown
+  - MessageKit
+  - OTPFieldView
+  - SDWebImage (~> 5.0)
+  - SignaturePad (~> 1.0.3)
+  - Stripe
+  - SwiftyJSON
+  - Toast-Swift (~> 5.0.1)
+  - UICheckbox.Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cosmos
+    - CountryPickerView
+    - DatePickerDialog
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseAuth
+    - FirebaseCore
+    - FirebaseCoreDiagnostics
+    - FirebaseDatabase
+    - FirebaseDynamicLinks
+    - FirebaseInstallations
+    - FirebaseInstanceID
+    - FirebaseMessaging
+    - FirebaseStorage
+    - GoogleAppMeasurement
+    - GoogleDataTransport
+    - GoogleUtilities
+    - GTMSessionFetcher
+    - ImagePicker
+    - InputBarAccessoryView
+    - iOSDropDown
+    - leveldb-library
+    - MessageKit
+    - nanopb
+    - OTPFieldView
+    - PromisesObjC
+    - Protobuf
+    - SDWebImage
+    - SignaturePad
+    - Stripe
+    - SwiftyJSON
+    - Toast-Swift
+    - UICheckbox.Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 3b6a534a3df22db367e4dedeeca73d1ddfcf0e2f
+  Cosmos: eb506859929f4add2d2aec822a27efb2f718a95d
+  CountryPickerView: 9b093bfffb4b06a69ba6185a798cadbf863720e7
+  DatePickerDialog: ccff2f91ff7a018057a4d72fa5ad6de49c8cb0cd
+  Firebase: 658370fa0181826a74b7cfca8d68c5856ca749ae
+  FirebaseAnalytics: 0ca9aa2af7cc4dc92392b7a78bfc49feaa2eb60f
+  FirebaseAuth: 09f086fae98643f1ef235674cf3ae171ce26f5ba
+  FirebaseCore: 6fb954e350af0885803d5aa49865d15d9a6b264c
+  FirebaseCoreDiagnostics: 7415bfb3883b3500c5a95c42b6ba66baae78f600
+  FirebaseDatabase: d85b47213273708e48c972012b39105f76229588
+  FirebaseDynamicLinks: 6eac37d86910382eafb6315d952cc44c9e176094
+  FirebaseInstallations: 466c7b4d1f58fe16707693091da253726a731ed2
+  FirebaseInstanceID: 84f5f5762f1bee94ca2254f693bbf5aec6666504
+  FirebaseMessaging: 82d75b3770a78bbce470769a6980429608b4c407
+  FirebaseStorage: 15e0f15ef3c7fec3d1899d68623e47d4447066b4
+  GoogleAppMeasurement: ecc30d0ab5b66d7d18e85ce1b8e2b345db60626d
+  GoogleDataTransport: e85fb700c9b027079ce182c3d08e12e0f9618bb4
+  GoogleUtilities: 7f2f5a07f888cdb145101d6042bc4422f57e70b3
+  GTMSessionFetcher: 6f5c8abbab8a9bce4bb3f057e317728ec6182b10
+  ImagePicker: 1d950bbb2422548ed58791b4ec7f42fe42920511
+  InputBarAccessoryView: 8ec44fced9840957831f7ab842e9c4fe6ff9a252
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  leveldb-library: 55d93ee664b4007aac644a782d11da33fba316f7
+  MessageKit: 5ff0908bce5a7b6e11bd0b60e13a33e03697d161
+  nanopb: 59317e09cf1f1a0af72f12af412d54edf52603fc
+  OTPFieldView: 700a752fe62c41d1c4914c78aa500fb30d97c255
+  PromisesObjC: b14b1c6b68e306650688599de8a45e49fae81151
+  Protobuf: 3dac39b34a08151c6d949560efe3f86134a3f748
+  SDWebImage: 62ae4a18473520c67b79e9724c31a63599cc9423
+  SignaturePad: b0d6322a27e90fe3e7d55194606503f5dfacb077
+  Stripe: 006b519b33936ebd9508bd2ade2311fdbe8bbd4c
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  UICheckbox.Swift: 85715689206fac5bae38b308f19c2a3e00442c3b
+
+PODFILE CHECKSUM: c6fee879a47b89a0ec6b2bebfdc9435d360f5ce0
+
+COCOAPODS: 1.10.0
